@@ -1,0 +1,12 @@
+{
+  "name": "root",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "tsx": "^4.17.0",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "eslint": "^9.8.0"
+  }
+}

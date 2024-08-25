@@ -1,0 +1,10 @@
+{
+  "name": "@workspace/tsconfig",
+  "private": true,
+  "type": "module",
+  "exports": "./tsconfig.json",
+  "sideEffects": false,
+  "files": [
+    "tsconfig.json"
+  ]
+}
