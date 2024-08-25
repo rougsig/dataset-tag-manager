@@ -19,6 +19,9 @@ dist
 __generated__
 **/__generated__
 
+__dataset__
+**/__dataset__
+
 prod
 **/prod
 

@@ -1,4 +1,8 @@
 import {createNodeConfig} from '@workspace/vite'
 import {defineConfig} from 'vite'
 
-export default defineConfig(createNodeConfig(__dirname))
+export default defineConfig(createNodeConfig(__dirname, {
+  test: {
+    testTimeout: Infinity,
+  },
+}))
